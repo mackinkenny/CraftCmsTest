@@ -1,0 +1,12 @@
+currLabel: Категории
+customIcon: null
+enabled: true
+handle: categories
+icon: categories
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 2
+prevLabel: Категории
+prevUrl: categories
+type: ''
+url: categories

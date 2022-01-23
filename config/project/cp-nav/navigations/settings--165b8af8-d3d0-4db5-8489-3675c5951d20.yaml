@@ -1,0 +1,12 @@
+currLabel: Настройки
+customIcon: null
+enabled: true
+handle: settings
+icon: settings
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 5
+prevLabel: Настройки
+prevUrl: settings
+type: ''
+url: settings

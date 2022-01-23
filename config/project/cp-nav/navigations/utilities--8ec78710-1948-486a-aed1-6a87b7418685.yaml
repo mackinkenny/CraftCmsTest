@@ -1,0 +1,12 @@
+currLabel: 'Служебные программы'
+customIcon: null
+enabled: true
+handle: utilities
+icon: tool
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 4
+prevLabel: 'Служебные программы'
+prevUrl: utilities
+type: ''
+url: utilities

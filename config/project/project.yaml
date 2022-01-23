@@ -1,0 +1,54 @@
+dateModified: 1642923078
+email:
+  fromEmail: Naspekov.erkin@gmail.com
+  fromName: test
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0f8c3aff-059b-4090-af0e-549c62ef9d0a: 'Post Categories' # Post Categories
+    5b611cb1-d021-4486-89a1-30c0417a49c6: test # test
+    8e7e7a94-f730-4e9d-b0f6-f7889212aec9: Summary # Summary
+    40d7b72f-9205-4c56-90fb-58236bced5b5: Common # Common
+    97aa735c-5210-4ab0-ba4f-7b34843da695: 'Blog Categories' # Blog Categories
+    595c95f9-5b81-40b6-abfa-42be5883fe6d: Default # Default
+    06423f23-7b2d-46ab-8e9b-327d56fe3883: Blog # Blog
+    67150fa1-f4a5-4854-80ec-6b0c718aae53: 'Blog Post Fields' # Blog Post Fields
+    169475e8-39cf-4b1a-97a1-768400935ed5: test # test
+    df126e0e-8ac2-487e-9750-d1265ceb8288: Blog # Blog
+    ec6b1f01-bea2-494c-ad23-a81fc1fc95b3: Blog # Blog
+    f43f6d35-1486-4e35-abba-12142523969c: 'Feature Image' # Feature Image
+plugins:
+  cp-nav:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.7
+    settings:
+      originalNavHash:
+        __assoc__:
+          -
+            - 6b38e1ad-45d9-4d28-a053-9836860659ca
+            - W3sibGFiZWwiOiLQmNC90YTQvtGA0LzQsNGG0LjQvtC90L3QsNGPINC/0LDQvdC10LvRjCIsInVybCI6ImRhc2hib2FyZCIsImZvbnRJY29uIjoiZ2F1Z2UifSx7ImxhYmVsIjoi0JfQsNC/0LjRgdC4IiwidXJsIjoiZW50cmllcyIsImZvbnRJY29uIjoic2VjdGlvbiJ9LHsibGFiZWwiOiLQmtCw0YLQtdCz0L7RgNC40LgiLCJ1cmwiOiJjYXRlZ29yaWVzIiwiZm9udEljb24iOiJjYXRlZ29yaWVzIn0seyJsYWJlbCI6ItCg0LXRgdGD0YDRgdGLIiwidXJsIjoiYXNzZXRzIiwiZm9udEljb24iOiJhc3NldHMifSx7InVybCI6InV0aWxpdGllcyIsImxhYmVsIjoi0KHQu9GD0LbQtdCx0L3Ri9C1INC/0YDQvtCz0YDQsNC80LzRiyIsImZvbnRJY29uIjoidG9vbCIsImJhZGdlQ291bnQiOjB9LHsidXJsIjoic2V0dGluZ3MiLCJsYWJlbCI6ItCd0LDRgdGC0YDQvtC50LrQuCIsImZvbnRJY29uIjoic2V0dGluZ3MifSx7InVybCI6InBsdWdpbi1zdG9yZSIsImxhYmVsIjoiUGx1Z2luIFN0b3JlIiwiZm9udEljb24iOiJwbHVnaW4ifV0=
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  test:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  test-news:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: test
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

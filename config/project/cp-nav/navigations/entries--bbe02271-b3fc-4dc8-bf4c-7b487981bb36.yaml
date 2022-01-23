@@ -1,0 +1,12 @@
+currLabel: Записи
+customIcon: null
+enabled: true
+handle: entries
+icon: section
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 1
+prevLabel: Записи
+prevUrl: entries
+type: ''
+url: entries

@@ -1,0 +1,12 @@
+currLabel: TestPlugin
+customIcon: null
+enabled: true
+handle: testplugin
+icon: plugin
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 99
+prevLabel: TestPlugin
+prevUrl: test-news/list
+type: manual
+url: test-news/list

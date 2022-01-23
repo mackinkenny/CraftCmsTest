@@ -1,0 +1,12 @@
+currLabel: 'Информационная панель'
+customIcon: null
+enabled: true
+handle: dashboard
+icon: gauge
+layout: 595c95f9-5b81-40b6-abfa-42be5883fe6d # Default
+newWindow: false
+order: 0
+prevLabel: 'Информационная панель'
+prevUrl: dashboard
+type: ''
+url: dashboard
